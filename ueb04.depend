@@ -167,3 +167,98 @@
 	"parse.h"
 	"caddress.h"
 
+1684170724 source:g:\my drive\bht 3. semester\oop\ueb04\caddress.cpp
+	"parse.h"
+	"caddress.h"
+
+1684157617 g:\my drive\bht 3. semester\oop\ueb04\parse.h
+	<iostream>
+	<string>
+
+1684160024 g:\my drive\bht 3. semester\oop\ueb04\caddress.h
+	<fstream>
+	<iostream>
+	<string>
+
+1684170536 source:g:\my drive\bht 3. semester\oop\ueb04\cdate.cpp
+	"parse.h"
+	"cdate.h"
+
+1684170574 g:\my drive\bht 3. semester\oop\ueb04\cdate.h
+	<iomanip>
+	<fstream>
+	<iostream>
+	<ctime>
+
+1684176424 source:g:\my drive\bht 3. semester\oop\ueb04\clibrary.cpp
+	"parse.h"
+	"clibrary.h"
+
+1684176177 g:\my drive\bht 3. semester\oop\ueb04\clibrary.h
+	<vector>
+	<iostream>
+	<string>
+	<fstream>
+	"caddress.h"
+	"cperson.h"
+	"cmedium.h"
+
+1684163246 g:\my drive\bht 3. semester\oop\ueb04\cperson.h
+	<iostream>
+	<string>
+	<fstream>
+	"cdate.h"
+	"caddress.h"
+
+1684223721 g:\my drive\bht 3. semester\oop\ueb04\cmedium.h
+	<iostream>
+	<fstream>
+	<string>
+	"parse.h"
+	"clocation.h"
+
+1684177588 g:\my drive\bht 3. semester\oop\ueb04\clocation.h
+	<fstream>
+	<cstdlib>
+	<iostream>
+	<string>
+
+1684223643 source:g:\my drive\bht 3. semester\oop\ueb04\clibrarypool.cpp
+	<iostream>
+	"clibrarypool.h"
+	"parse.h"
+
+1684176690 g:\my drive\bht 3. semester\oop\ueb04\clibrarypool.h
+	<vector>
+	<iostream>
+	<string>
+	<fstream>
+	"clibrary.h"
+	"cperson.h"
+
+1684223402 source:g:\my drive\bht 3. semester\oop\ueb04\cmedium.cpp
+	"cmedium.h"
+
+1684170987 source:g:\my drive\bht 3. semester\oop\ueb04\cperson.cpp
+	<iomanip>
+	<iostream>
+	"cperson.h"
+	"parse.h"
+
+1683567463 source:g:\my drive\bht 3. semester\oop\ueb04\ctime.cpp
+	<iomanip>
+	<iostream>
+	"ctime.h"
+
+1684159922 g:\my drive\bht 3. semester\oop\ueb04\ctime.h
+	<iostream>
+	<fstream>
+	<ctime>
+
+1684046955 source:g:\my drive\bht 3. semester\oop\ueb04\main.cpp
+	<iostream>
+	"clibrarypool.h"
+
+1684157635 source:g:\my drive\bht 3. semester\oop\ueb04\parse.cpp
+	"parse.h"
+
